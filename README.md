@@ -1,4 +1,4 @@
-A super fast, highly extensible markdown parser for PHP
+爱爱爱A super fast, highly extensible markdown parser for PHP
 =======================================================
 
 [![Latest Stable Version](https://poser.pugx.org/cebe/markdown/v/stable.png)](https://packagist.org/packages/cebe/markdown)
